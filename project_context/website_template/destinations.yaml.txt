@@ -1,0 +1,125 @@
+metadata:
+  brand: "Pierre & Vacances"
+  industry: "European Holiday Residences & Villages"
+  filter_keys: [Beach, Skiing, Pure nature, Family friendly, Wellness, Golf, Tennis, Water sports]
+
+destinations:
+  - id: terrazas-costa-del-sol
+    name: "Resort Terrazas Costa del Sol"
+    region: "Andalusia"
+    country: "Spain"
+    type: "Resort"
+    premium: true
+    description: "Built in Andalusian village style with views of the Rock of Gibraltar. Features large outdoor pools, children clubs, and close access to local beaches."
+    tags: [Beach, Family friendly, Wellness, Golf]
+    booking_rules: "Minimum stay 7 nights during high season"
+
+  - id: bonavista-de-bonmont
+    name: "Holiday Village Bonavista de Bonmont"
+    region: "Costa Dorada"
+    country: "Spain"
+    type: "Holiday Village"
+    premium: false
+    description: "Located near the Bonmont Golf Course. Features a large Mediterranean swimming pool complex, sports courts, and a broad range of family activities."
+    tags: [Pure nature, Family friendly, Golf, Tennis]
+    booking_rules: "Flexible arrival dates"
+
+  - id: belle-dune
+    name: "Holiday Village Belle Dune"
+    region: "Picardy"
+    country: "France"
+    type: "Holiday Village"
+    premium: false
+    description: "Eco-friendly village set amidst sand dunes, lakes, and maritime pines. Located close to the Somme Bay, featuring indoor water parks and kids clubs."
+    tags: [Beach, Pure nature, Family friendly, Water sports]
+    booking_rules: "Flexible stay options"
+
+  - id: premium-amara
+    name: "Premium Residence Amara"
+    region: "Avoriaz (Alps)"
+    country: "France"
+    type: "Residence"
+    premium: true
+    description: "Ski-in/ski-out luxury apartments in the Portes du Soleil area. Offers panoramic mountain views, an indoor heated pool, and Deep Nature spa."
+    tags: [Skiing, Wellness, Pure nature, Family friendly]
+    booking_rules: "Add dates to see dynamic prices"
+
+  - id: presquile-de-la-touques
+    name: "Premium Residence Presqu'île de la Touques"
+    region: "Normandy"
+    country: "France"
+    type: "Residence"
+    premium: true
+    description: "Premium harbor-side apartments between Deauville and Trouville. Features heated indoor and outdoor swimming pools alongside Deep Nature spa access."
+    tags: [Beach, Wellness, Culture & heritage]
+    booking_rules: "Minimum 2 nights"
+
+  - id: pont-royal-en-provence
+    name: "Holiday Village Pont Royal en Provence"
+    region: "Provence"
+    country: "France"
+    type: "Holiday Village"
+    premium: false
+    description: "A pedestrian-only village overlooking a 18-hole golf course. Built with classic Provence architecture, offering multiple pools and kids clubs."
+    tags: [Pure nature, Family friendly, Golf, Tennis]
+    booking_rules: "7-night minimum during summer holidays"
+
+  - id: normandy-garden
+    name: "Holiday Village Normandy Garden"
+    region: "Normandy"
+    country: "France"
+    type: "Holiday Village"
+    premium: false
+    description: "Cottages situated in the heart of the Pays d'Auge countryside. Includes a heated indoor water park (Amazone) and outdoor heated lagoon."
+    tags: [Pure nature, Family friendly, Wellness]
+    booking_rules: "Flexible check-in options"
+
+  - id: villas-dolonne
+    name: "Premium Residence Les Villas d'Olonne"
+    region: "Vendée"
+    country: "France"
+    type: "Villa"
+    premium: true
+    description: "Independent villas with private heated outdoor pools and enclosed private gardens, situated close to the sea and pine forests."
+    tags: [Beach, Pure nature, Family friendly]
+    booking_rules: "Minimum stay 3 nights"
+
+  - id: premium-vercorin
+    name: "Premium Residence Vercorin"
+    region: "Valais"
+    country: "Switzerland"
+    type: "Residence"
+    premium: true
+    description: "Swiss Alpine chalets offering mountain scenery and ski-in/ski-out capabilities. Features on-site wellness facilities and hiking trail access."
+    tags: [Skiing, Pure nature, Hiking]
+    booking_rules: "Dynamic pricing applies"
+
+  - id: altea-beach-port
+    name: "Residence Altea Beach - Port"
+    region: "Costa Blanca"
+    country: "Spain"
+    type: "Residence"
+    premium: false
+    description: "Coastal apartments situated next to the Greenwich marina in Altea. Built to offer direct views of the Mediterranean Sea from private balconies."
+    tags: [Beach, Water sports]
+    booking_rules: "Flexible stays"
+
+  - id: chalets-du-forum
+    name: "Premium Residence Les Chalets du Forum"
+    region: "Courchevel 1850 (Alps)"
+    country: "France"
+    type: "Residence"
+    premium: true
+    description: "Spacious prestige apartments in Courchevel. Built with a focus on high-altitude skiing convenience and family-focused ski facilities."
+    tags: [Skiing, Family friendly]
+    booking_rules: "7-night minimum in peak winter weeks"
+
+  - id: arc-1950-le-village
+    name: "Premium Residence Arc 1950 Le Village"
+    region: "Les Arcs (Alps)"
+    country: "France"
+    type: "Residence"
+    premium: true
+    description: "Car-free ski-in/ski-out luxury village at 1950m. Features themed outdoor pools, a wellness spa, and immediate access to the Paradiski slopes."
+    tags: [Skiing, Wellness, Family friendly]
+    booking_rules: "Saturdays to Saturdays in high season"
