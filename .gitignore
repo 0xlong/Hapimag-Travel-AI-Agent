@@ -256,3 +256,5 @@ Thumbs.db
 .idea/
 *.sublime-project
 *.sublime-workspace
+project_context/
+jd_hapimag.md

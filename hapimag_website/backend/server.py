@@ -162,6 +162,7 @@ def parse_trip_request(query):
     countries = []
     duration_days = None
     date_window = None
+    budget = None
 
     for tag, words in TAG_SYNONYMS.items():
         if any(word in text for word in words):
@@ -175,6 +176,10 @@ def parse_trip_request(query):
         if re.search(pattern, text):
             duration_days = days
             break
+
+    budget_match = re.search(r"(\d+)\s*points", text)
+    if budget_match:
+        budget = int(budget_match.group(1))
 
     for window in DATE_WINDOWS:
         if window in text:
@@ -196,6 +201,7 @@ def parse_trip_request(query):
         "countries": countries,
         "duration_days": duration_days,
         "date_window": date_window,
+        "budget": budget,
         "semantic_intent": [],
         "used_llm": False,
     }
@@ -262,6 +268,7 @@ def build_llm_schema():
                     "countries": {"type": "array", "items": {"type": "string"}},
                     "duration_days": {"type": "integer", "nullable": True},
                     "date_window": {"type": "string", "nullable": True},
+                    "budget": {"type": "integer", "nullable": True},
                     "semantic_intent": {"type": "array", "items": {"type": "string"}},
                     "used_llm": {"type": "boolean"},
                 },
@@ -714,6 +721,22 @@ def parse_with_llm(query):
     return parsed
 
 
+def apply_points_calculation(destination, criteria):
+    """Calculate the points needed and affordability for a destination."""
+    points_per_night = destination.get("pointsPerNight", 10)
+    duration = criteria.get("duration_days") or 7
+    total_points = duration * points_per_night
+    destination["totalPoints"] = total_points
+    destination["duration_days"] = duration
+    
+    budget = criteria.get("budget")
+    if budget is not None:
+        destination["affordable"] = total_points <= budget
+        destination["pointsShortfall"] = max(0, total_points - budget)
+    
+    return destination
+
+
 def validate_llm_recommendations(llm_result, field_name):
     """Keep only LLM recommendations that point to destinations we really have.
 
@@ -746,6 +769,9 @@ def validate_llm_recommendations(llm_result, field_name):
         destination = dict(by_id[destination_id])
         destination["score"] = int(recommendation.get("score", 0))
         destination["reasons"] = recommendation.get("reasons", [])[:4]
+        
+        apply_points_calculation(destination, criteria)
+        
         validated.append(destination)
         seen.add(destination_id)
 
@@ -852,6 +878,7 @@ def search_destinations(criteria, require_all_tags=True):
             result = dict(destination)
             result["score"] = score
             result["reasons"] = reasons[:4]
+            apply_points_calculation(result, criteria)
             results.append(result)
 
     return sorted(results, key=lambda item: item["score"], reverse=True)

@@ -23,6 +23,7 @@ Weather tool usage:
 - Resolve relative date phrases to concrete YYYY-MM-DD dates using the current year ({current_year}).
 - If the dates fall within the next 16 days, use the tool. Otherwise, skip the weather call.
 - When weather data is available, briefly summarize general weather conditions in `recommendation_text` (e.g. if it is sunny, rainy, or mixed, and whether the weather looks good/ok or not for the trip). Do NOT include specific temperature values, degrees, or detailed statistics.
+- If the user mentions having a specific number of points (e.g. "I have 100 points"), extract this value into the `budget` field of the criteria.
 
 Allowed filter tags:
 {allowed_tags}

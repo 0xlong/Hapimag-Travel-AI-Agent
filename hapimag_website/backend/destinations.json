@@ -18,7 +18,8 @@
       "Pure nature"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1WjoFWFSXqQsgX78SjQbSsLnc7lykGU2t/31e64f918a9c3e90a8b3243656c5d4b4/Austria-Salzburger-Land-Bad_Gastein-Resort-Drone-01.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 8
   },
   {
     "id": "saalbach",
@@ -36,7 +37,8 @@
       "Tennis"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1O_KJKmPZlFixWD5Cx_GinGxPxc_iIEM1/dcaa5de991d54d557b94c11492efca72/Salzburg-Province-Saalbach-Resort-6.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 5
   },
   {
     "id": "salzburg",
@@ -50,7 +52,8 @@
       "Biking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1Lh3APbF-7fuTgO-rO3ziqVCxEYFWD1PC/9d74ea62a7c6dede50a251f85ef1f138/Austria-Salzburg-Resort.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 13
   },
   {
     "id": "sonnleitn",
@@ -67,7 +70,8 @@
       "Snowshoeing"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1PyO8ZI7UhhU6oJuJViIGYJMuFKHbFPE2/bbc1af88481cf9e5347f7bdcd82ee9a5/Kopie_von_Kopie_von_%C3%96sterreich-Sonnleitn-Resort-Outdoor-17.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 12
   },
   {
     "id": "st-michael",
@@ -89,7 +93,8 @@
       "Cross-country skiing"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1wVHlIKqAPmlUwHattxIzX/32cd5a42609cd8e54404c366e5f3391b/large-St-Michael-Resort-Outside-_21.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 12
   },
   {
     "id": "vienna",
@@ -102,7 +107,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/16RrTQgtrSb5qb-0tn-bwB9aFl-tDg1bB/8d03bc3ea5003092bd534174f19dcf35/Kopie_von_Kopie_von_%C3%96sterreich-Vienna-Holiday-apartment---2-rooms---Budget---Living-area---01.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 9
   },
   {
     "id": "zell-am-see",
@@ -126,7 +132,8 @@
       "Sailing"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1w2ccdHxOIfIq43C425831u6hm_kXc3ya/8012e23bc98d0276a87b3e3cef7c2d6b/Salzburg-Province-Zell_am_See-holiday-flats-5.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 8
   },
   {
     "id": "the-crane-resort",
@@ -139,7 +146,8 @@
       "Pure nature"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1B4xXXOVusFDh-dNYaF_dLJQWYB7V0ym3/10159a204234821c47075a12330b407a/Barbados-The-Crane-Pool-6.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Minimum stay 3 nights"
+    "bookingText": "Minimum stay 3 nights",
+    "pointsPerNight": 7
   },
   {
     "id": "petram-resort",
@@ -154,7 +162,8 @@
       "Wellness"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1I9uReABXpa0zPnbHZzoqP_PtNZ0slsDs/aa1c1d21ab179ee80851fc669d05de4e/Istrien-Petram-Resort-2.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Minimum stay 3 nights"
+    "bookingText": "Minimum stay 3 nights",
+    "pointsPerNight": 18
   },
   {
     "id": "prague",
@@ -167,7 +176,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1gszt64S31BMhjqO1bk7IAikBLeG9GbPV/f0f4c741516a37593882664127eea21c/Czech_Republic-Prague-Holiday-Apartment-2-Room-Comfort-View-02.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 6
   },
   {
     "id": "punkaharju",
@@ -182,7 +192,8 @@
       "Biking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1iR0wLAO1Bq1ejSITxdoZZ0bip1c2LCBQ/09e6a5ebdb7e78c9b3d40695638b27f0/Kopie_von_Finnland-Punkaharju-Outdoor-area-10.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 5
   },
   {
     "id": "antibes",
@@ -197,7 +208,8 @@
       "Stand-up paddling"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1IhVWuQMNE1S7Iyy18ZVgjxU74Gx8GvkI/5c3948003337a40925bc645babbd95ad/Cote-dAzur-Antibes-Resort.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 7
   },
   {
     "id": "chateau-de-chabenet",
@@ -212,7 +224,8 @@
       "Hiking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1NfDSh3uaQomC6fhv2pXaOZAIitN4HGqB/9d3425930555e09aceef1cdbae86fca2/Berry-Chateau-de-Chabenet-Castle-1.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 11
   },
   {
     "id": "houseboats-midi",
@@ -226,7 +239,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1-_RpKDSs5kIOFn7vjNmfoNsT-tJjC9rz/37e9550946f441438c71ab81e9dcbd93/South-of-Fance-Midi-Houseboat-Zorn-Valley.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 12
   },
   {
     "id": "la-madrague",
@@ -244,7 +258,8 @@
       "Tennis"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1egWcyw0aGAsIUxoSN_T9_CPQXdxVd2CW/cccb11ea14db1f1ee8ace4c547c5ffea/Provence-La_Madrague-Resort-Pool-05.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 5
   },
   {
     "id": "paris",
@@ -257,7 +272,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1WW07ID_erDr-BkrAN5lPvM56mSIzyQb5/630fd0de18332a087dd3c3d0c165b511/France-Paris-Reception-1.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 11
   },
   {
     "id": "berlin-gendarmenmarkt",
@@ -270,7 +286,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1d0fsJ1qFE6rawlFXVChH3Hb-UPdcZf_x/c74114aab80da9dea663ceb5f0b3faef/Germany-Berlin-Gendarmenmarkt-Resort-Aussen-01.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 18
   },
   {
     "id": "berlin-zoo",
@@ -283,7 +300,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1YuVziaFujizqpE_Em3OIRprLMZOz8N7L/11759c36fb36645cf607ecc1f501a932/Germany-Berlin-Zoo-Resort-Entrance-01.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 12
   },
   {
     "id": "binz",
@@ -299,7 +317,8 @@
       "Hiking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1o3-WUudPKaNRs-ae506t3UJ8R4inAkCs/b4a29ec12f0362a31d7b04ba8a42704a/Ruegen-Binz-holiday-flats-1.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 19
   },
   {
     "id": "braunlage",
@@ -315,7 +334,8 @@
       "Cross-country skiing"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1_RUMAbLP7UfB8diBeaw2gGL7Zzm5fB6u/7c9b0ee6da1d67986ac9697a3686a850/Harz_Mountains-Braunlage-Holiday-resort-1.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 13
   },
   {
     "id": "dresden",
@@ -328,7 +348,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1RVABgCAOjxhEeRCtCjNhsFBmEy9wQQml/e349f2fec951407067eb14ded725074f/Germany-Dresden-Resort-Aussen-01.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 5
   },
   {
     "id": "hamburg",
@@ -341,7 +362,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1TOm09WbgdjvtaJJ4s4-0Gp5XtHnUbuex/013ed0156c64b4059825e9a5962e1350/Germany-Hamburg-holiday-flats-2.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 10
   },
   {
     "id": "houseboats-muritz",
@@ -356,7 +378,8 @@
       "Canoe & kayak"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/141JXCFpFl_5bCojq1iHCkguefkUhabia/ec725b9f6aadc787c7f960b9ff06af20/Mecklenburgische-Seenplatte-Mueritz-Landscape-08.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 18
   },
   {
     "id": "hornum",
@@ -373,7 +396,8 @@
       "Windsurfing"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1DRmQ-ahS_uT9qkoPsPba3Mq57oGgunGN/b28a82fc1fe68642bc8c900ea70481a0/Kopie_von_Kopie_von_Deutschland-H%C3%B6rnum-Resort-exterior-view-03.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 15
   },
   {
     "id": "munich",
@@ -386,7 +410,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1Uq9hbW5c_arZXte6OpX_7FJhj-vA-0me/e69ae6a0ac31a71464c260e42d1fe2f4/Germany-Munich-holiday-flats-2.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 13
   },
   {
     "id": "unterkirnach",
@@ -403,7 +428,8 @@
       "Biking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/14ruZfy5Iqn7UzeKl2bbl-f9soPa5RSo7/5f9ac32938da11af8c042fb0787cbfac/Black-Forest-Unterkirnach-Resort-Drone-08.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 9
   },
   {
     "id": "westerland-aalborg",
@@ -419,7 +445,8 @@
       "Golf"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1iCyFmh11Ism8B1OFysLAyHmQ6ChT-Kdq/5468fe46b690453f7497d01e255eabe9/Germany-Sylt-Westerland_Aalborg-Outside-02.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 11
   },
   {
     "id": "westerland-dunenblick",
@@ -435,7 +462,8 @@
       "Golf"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/15CfPZd-A85GHqHqj_Au2RyimzEdsKktF/a41a82d7ee7367638a5a159555c22eb6/Germany-Sylt-Westerland-D%C3%BCnenblick-Resort-Outside-01.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 15
   },
   {
     "id": "westerland-margarethenhof",
@@ -450,7 +478,8 @@
       "Golf"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1JNZCiqzb52xijwfC1ICnCNydipAwVPKe/cff6f757318a65329ac369584e4c9bb3/Germany-Sylt-Westerland_Margarethenhof-Resort-Outside-01.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 8
   },
   {
     "id": "winterberg",
@@ -468,7 +497,8 @@
       "Skiing"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1tpRYV-Da7uJPgn97_L6F09luxOkcnSrR/f42aaf73d06971af87ade1b5a21b3e21/Sauerland-Winterberg-7.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 7
   },
   {
     "id": "athens",
@@ -481,7 +511,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1ZDhJxOJYUEga5s8_fh7BrPSVVTKtkHvm/ba644701b20c1d45eeb08066c964c625/Greece-Athens-entrance-area.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 17
   },
   {
     "id": "damnoni",
@@ -501,7 +532,8 @@
       "Canoe & kayak"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1d6NCXCjgi_1UhsjyZx8n9pqIBo3RJbdr/acfc6a9c41526c77b379f78442022c2e/Crete-Damnoni-holiday-flats-Beach-1.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 8
   },
   {
     "id": "porto-heli",
@@ -517,7 +549,8 @@
       "Wellness"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1lEc4nx0oXulMmtH17DsZmnj-4GueNSIx/d1cfb06ed2a8a3329ea87bbd3605db02/Peloponnese-Porto-Heli-Pool-Sea.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 16
   },
   {
     "id": "budapest",
@@ -531,7 +564,8 @@
       "Wellness"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1J8YAHnxdST_VPsPXv8tpiljxN-3H4nwk/1bfe5dd93bc9cc2556f16f108b4d7475/Hungary-Budapest-Resort-Outdoor-12.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 16
   },
   {
     "id": "cannero",
@@ -547,7 +581,8 @@
       "Hiking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1fCOaKBXbHXg4s90s_w-TTVu2_JXXtSQf/8030fd3995b2156590b013fbc06e10ce/Lake-Maggiore-Cannero-holiday-flats-Lake-2.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 13
   },
   {
     "id": "cavallino-treporti",
@@ -564,7 +599,8 @@
       "Biking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1skZsSIjlHN7j3DCbxJc4aXPBIC6eKJce/965f3e1787ebe080afdd043c2c0275fd/Kopie_von_Italien-Cavallino-Resort-Outdoor-16.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 6
   },
   {
     "id": "cefalu",
@@ -581,7 +617,8 @@
       "Tennis"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/17Wav5982r6qPhQDrVFdfE/565c5d3f70e738b95a527186d00693ac/Italien-Cefalu-Ferienwohnung-2-Zimmer-Komfort-4-Personen-Wohnzimmer-01.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 19
   },
   {
     "id": "merano",
@@ -597,7 +634,8 @@
       "Golf"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1ijZZuDBcnQZwrFyCY8zO5B_7ehxA1TZI/2132f211bc7b89626c4bc43f26ef855b/Kopie_von_Kopie_von_Italien-Merano-Resort-exterior-view-02.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 8
   },
   {
     "id": "pentolina",
@@ -614,7 +652,8 @@
       "Biking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1AGE9QarnPR7Exb5C-QexFzynNAMtd546/beb79fe862c0db38ac88ead0ab80999d/Kopie_von_Kopie_von_Italien-Pentolina-Resort-Pool-05.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 17
   },
   {
     "id": "scerne-di-pineto",
@@ -632,7 +671,8 @@
       "Biking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/16zTuLGuAZB7FURV3JKfeVBzbNdVSlZxo/82f0797397425c63f74e9f51772e3967/Italien-Scerne-di-Pineto-Resort-Drone-06.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 7
   },
   {
     "id": "tonda",
@@ -647,7 +687,8 @@
       "Tennis"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1RGOFEK_ScJZ0DKaJhIGLV1g162vW7eoG/84d696354b194e655744bc2f6990b0ef/Kopie_von_Italien-Tonda-Resort-outdoor-area-36.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 14
   },
   {
     "id": "marrakech",
@@ -663,7 +704,8 @@
       "Golf"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/116n4LqyJ66RBVWuC87_d6Zzrl1vqb0yf/7c7b98979147f9e8494ea928d0cfb8ee/Morocco-Marrakesch-Pool-05.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 16
   },
   {
     "id": "amsterdam",
@@ -677,7 +719,8 @@
       "Biking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1_3AFedlukdpDZ8zZ9rGV8Eaa_bbneoes/35e264e2a6630b7dd27911dec6999d0b/Netherlands-Amsterdam-Resort-Outside-01.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 11
   },
   {
     "id": "albufeira",
@@ -691,7 +734,8 @@
       "Wellness"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1JW3GRunvTzNe46eXQRlqyDQJFVP8nHry/ae48d6c55ec6be93925b58eedecfe1e4/Algarve-Albufeira-Pool-2.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 7
   },
   {
     "id": "lisbon",
@@ -704,7 +748,8 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1Q3-Dk7GPjsXQJTAP0zNWFElSV1futybD/edc1eb6bc8f153919fce7ede6c716f9e/Portugal-Lisbon-Resort-Outside-02.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 6
   },
   {
     "id": "marbella",
@@ -720,7 +765,8 @@
       "Stand-up paddling"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/10Ushkqn-KN2oDyNFxYWTW3LyP8TDgjNM/74675641631ca28c61cd16ab46af59ca/_Spanien-Costa-del-Sol-Marbella-Pool-19.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 12
   },
   {
     "id": "mas-nou",
@@ -741,7 +787,8 @@
       "Stand-up paddling"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/3anj4IZ7QPZ4PgmFl0o3PD/03352858b0251ee65383c7e1ec9035c9/Spanien-Costa-Brava-Mas-Nou-Resort-Drone-22.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 14
   },
   {
     "id": "paguera",
@@ -758,7 +805,8 @@
       "Biking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1aOw3uzph5YGl8gLnqwxhUPKbs-v2b_K0/66262221b6345371f4ad6695e0468313/Website-Spanien-Paguera-Resort-Drohne-21.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 7
   },
   {
     "id": "puerto-de-la-cruz",
@@ -772,7 +820,8 @@
       "Hiking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1skmMEyUerlA-vF0onVch3mSD7WvnFP33/2132fa7abfb3fe14ed5ffb5fef09b5c6/Tenerife-Puerto-de-la-Cruz-Pool-5.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 12
   },
   {
     "id": "san-agustin",
@@ -787,7 +836,8 @@
       "Golf"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1luUFo35RtybJgduyvdHLZP-9bZwkOfgt/6189f1ee1e96c25de17a164c43147df3/Spanien-Gran-Canaria-San_Agustin-Droneaufnahme-003.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 8
   },
   {
     "id": "andeer",
@@ -803,7 +853,8 @@
       "Snowshoeing"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/12DlDaiNj0L2LBSAtvWFU9zxlIaEXmlAt/ecfd9119aaaf81779f8e820d683e6a87/Schweiz-Andeer-Resort-23.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 17
   },
   {
     "id": "ascona",
@@ -820,7 +871,8 @@
       "Biking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1GPrhxgWAgmr3zcw680Szo483ApvFqyxB/8da0ad3e15d593f8be33f9750d21a04b/Schweiz-Tessin-Ascona-Drone-01.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 13
   },
   {
     "id": "flims",
@@ -839,7 +891,8 @@
       "Biking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1I1I8R_Yj25EckrSBnA93Lxeb_mqIYCUm/d076f22c4c1693aca3299df96806014a/Schweiz-Flims-Resort-Drone-17.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 19
   },
   {
     "id": "interlaken",
@@ -856,7 +909,8 @@
       "Golf"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1E1vYs8s_C_eFDmrEcpUrKizmvklPKsNp/20f47c64c55bd6f8ec0ada51d079a557/Bernese-Oberland-Interlaken-Resort-Outside-29.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 16
   },
   {
     "id": "reka-holiday-village-blatten-belalp",
@@ -870,7 +924,8 @@
       "Family friendly"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/AI9nBEvTyatrmnq4lBC02/cb83bfa8cae594e43991b1064ee00a4c/Wallis-REKA_Feriendorf-Resort-8.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "3-night min"
+    "bookingText": "3-night min",
+    "pointsPerNight": 10
   },
   {
     "id": "bodrum",
@@ -890,7 +945,8 @@
       "Tennis"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/6fLNEGWi0x3Cci2pbg8FLW/7dc131ce086dd86495dd8a690733fe79/Website-Tuerkei-Bodrum-Ferienwohnungen.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 16
   },
   {
     "id": "bowness-on-windermere",
@@ -906,7 +962,8 @@
       "Sailing"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1fueSZHHZkqSv9pKhu6Flf-cHcgySLdXC/8dccb735ec7f87af5d795a55c1715abb/Lake-District-Bowness-on-Windermere-holiday-flats-1.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 16
   },
   {
     "id": "edinburgh",
@@ -921,7 +978,8 @@
       "Hiking"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1ZfEiOs_VBungbrsTq28cBDbQ2gI_Vno2/f4283eae2fe886b42d301562a072f6f8/United_Kingdom-Edinburgh-entrance-area_1_.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 11
   },
   {
     "id": "london",
@@ -934,6 +992,7 @@
       "Culture & heritage"
     ],
     "image": "https://images.ctfassets.net/tzyjn3z7mm9b/1TEG8tYUT0skDRgRTcZHuubdCVPlnCzdc/df47159259954841fb708e19efb32e58/United_Kingdom-London-Resort-Exterior-view-1.jpg?w=720&h=400&fit=fill&fm=webp&q=85",
-    "bookingText": "Add dates to see prices"
+    "bookingText": "Add dates to see prices",
+    "pointsPerNight": 13
   }
 ]

@@ -353,6 +353,8 @@ function WeatherStrip({ weather }) {
 }
 
 function DestinationCard({ destination, weather }) {
+  const hasPoints = destination.totalPoints !== undefined;
+
   return (
     <article className="destinationCard">
       <img src={destination.image} alt={destination.name} />
@@ -372,10 +374,36 @@ function DestinationCard({ destination, weather }) {
           ))}
         </div>
       </div>
-      <div className="bookingPanel">
-        <p>{destination.bookingText}</p>
-        <button type="button">Explore Options</button>
-      </div>
+      {hasPoints ? (
+        <div className={`bookingPanel pointsPanel ${destination.affordable ? 'readyToBookCard' : 'upsellCard'}`}>
+          <div className="tripDetails">
+            <strong>Trip Details:</strong> {destination.duration_days} nights<br/>
+            <strong>Total Cost:</strong> {destination.totalPoints} Points
+          </div>
+          {destination.affordable ? (
+            <>
+              <div className="pointsAlert successAlert">
+                ✅ You have enough points!
+              </div>
+              <button type="button" className="btnPrimary">BOOK NOW</button>
+            </>
+          ) : (
+            <>
+              <div className="pointsAlert warningAlert">
+                ⚠️ You are {destination.pointsShortfall} points short.
+              </div>
+              <button type="button" className="btnUpsell">
+                BUY {destination.pointsShortfall} POINTS (€{destination.pointsShortfall * 12}) & BOOK
+              </button>
+            </>
+          )}
+        </div>
+      ) : (
+        <div className="bookingPanel">
+          <p>{destination.bookingText}</p>
+          <button type="button">Explore Options</button>
+        </div>
+      )}
     </article>
   );
 }
