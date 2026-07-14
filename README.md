@@ -31,8 +31,11 @@ Users can search using raw, conversational phrases (e.g., *"something close to t
 
 ### 3. Deterministic Points Evaluation & Upsell Engine
 * **No LLM Math:** To prevent LLMs from hallucinating points math, the Python backend executes the calculations:
-  $$\text{totalPoints} = \text{duration\_days} \times \text{pointsPerNight}$$
-* **Shortfall Calculation:** The engine calculates `pointsShortfall = max(0, totalPoints - budget)`.
+
+  **totalPoints = duration_days X pointsPerNight**
+* **Shortfall Calculation:** The engine calculates:
+
+  **pointsShortfall = max(0, totalPoints - budget)**
 * **Frictionless Upsell:** If the user is short on points, the UI renders an orange **Upsell Panel** displaying the exact shortfall, a calculated cost to purchase the missing points (€12 per point), and a call-to-action button: **"BUY X POINTS (€Y) & BOOK"**.
 * If the user has sufficient points, it renders a green panel with a **"BOOK NOW"** button.
 
