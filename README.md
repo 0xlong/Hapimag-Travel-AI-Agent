@@ -13,44 +13,7 @@ The prototype is designed with an "AI Transformation Lead" mindset, emphasizing:
 
 This diagram illustrates how an unstructured user query flows through the AI layer, executes API tool calls, evaluates points requirements deterministically, and presents personalized booking or upsell options to the user.
 
-```mermaid
-graph TD
-    %% User Input
-    User["👤 User: 'Hiking in October for 7 nights. I have 100 points.'"] --> A
-    
-    %% AI Parser
-    subgraph 1. AI Intent Extraction (Gemini)
-        A[🤖 LLM Parser] -->|Extracts parameters| B["{ intent: 'hiking', month: 'October', nights: 7, budget: 100 }"]
-    end
-    
-    %% Tool Call
-    subgraph 2. Dynamic Tool Calling
-        B -->|If dates are within 16 days| Weather["🌦️ Open-Meteo Weather API"]
-        Weather -->|Returns Forecast| B
-    end
-
-    %% Matcher
-    subgraph 3. Semantic & Catalog Matching
-        B --> C[(📚 Resort Catalog destinations.json)]
-        C -->|Returns Top Matches| D["Resort Fiss (Austria)<br>Resort Marbella (Spain)"]
-    end
-    
-    %% Points Engine
-    subgraph 4. Business Logic: Points Calculator
-        D --> E{💰 Points Evaluation Engine}
-        E -->|Calculates seasonal cost| F["Fiss: 70 points total<br>Marbella: 105 points total"]
-        F --> G{Compare with 100 pt budget}
-        
-        G -->|Cost <= Budget| H["✅ Affordable<br>(Points Shortfall = 0)"]
-        G -->|Cost > Budget| I["⚠️ Shortfall<br>(Points Shortfall = 5)"]
-    end
-
-    %% UI Presentation
-    subgraph 5. Dynamic UI Rendering (React)
-        H --> UI_Green["🟢 Ready to Book Card<br>'BOOK NOW'"]
-        I --> UI_Orange["🟠 Upsell Opportunity Card<br>'BUY 5 POINTS & BOOK'"]
-    end
-```
+<img width="3970" height="8192" alt="AI-Driven Hiking Points-2026-07-14-120657" src="https://github.com/user-attachments/assets/eb43ebd7-592e-4b22-9752-f677e41522ec" />
 
 ---
 
